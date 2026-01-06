@@ -1,0 +1,2 @@
+# NovaSpecs
+Nova Specs
