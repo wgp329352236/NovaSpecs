@@ -76,7 +76,6 @@ Pod::Spec.new do |s|
   s.dependency 'Adjust', '~> 5.5.1'
   s.dependency 'SnapKit', '~> 5.7.1'
   s.dependency 'MBProgressHUD', '~> 1.2.0'
-  s.dependency 'HandyJSON', '~> 5.0.2'
 
 # Facebook
   s.dependency 'FBSDKCoreKit_Basics'
